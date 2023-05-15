@@ -1,0 +1,13 @@
+{
+  "celular": [
+    {
+      "id": 1,
+      "marca": "iPhone",
+      "modelo": "iPhone XR",
+      "precio": "$300",
+      "active": true
+      
+    }
+    
+  ]
+}
